@@ -1,0 +1,25 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: ProggyCleanTT Nerd Font
+    style: Regular
+  # Bold font face
+  bold:
+    family: ProggyCleanTT Nerd Font
+    style: Bold
+
+  # Italic font face
+  italic:
+    family: ProggyCleanTT Nerd Font
+    style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: ProggyCleanTT Nerd Font
+    style: Bold Italic
+
+  # Point size
+  size: 8.0
