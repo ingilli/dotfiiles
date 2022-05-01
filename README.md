@@ -1,11 +1,11 @@
-CURRENT DESKTOP
+## CURRENT DESKTOP
 
 
 ![Alt text](https://i.redd.it/ni5wb28xsrw81.png "a title")
 
 ---
 
-WHAT I'M USING!!
+## WHAT I'M USING!!
 
 pywal: https://github.com/dylanaraps/wal
 
@@ -20,9 +20,8 @@ Polybar: https://github.com/polybar/polybar
 picom: https://github.com/yshui/picom
 
 ---
-
-polybars config is a slightly modified version of saeltax's polybar
+## CHECK THIS GUY OUT!!
 
 https://github.com/salteax/dotfiles
 
-Check his stuff out!
+my polybars are a slightly modified version of his!
