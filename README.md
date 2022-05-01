@@ -21,5 +21,7 @@ picom: https://github.com/yshui/picom
 ---
 
 polybars config is a slightly modified version of saeltax's polybar
+
 https://github.com/salteax/dotfiles
+
 Check his stuff out!
